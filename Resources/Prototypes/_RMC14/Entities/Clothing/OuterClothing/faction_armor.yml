@@ -5,7 +5,7 @@
   parent: CMArmorM3Medium
   id: RMCArmorMARSOC
   name: marine raider armor
-  description: A heavily customized suit of M3 armor. Used by Marine Raiders.
+  description: A heavily customized suit of M3 armor. Used by USCM Marine Raiders.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Clothing/OuterClothing/marsoc.rsi
@@ -88,7 +88,7 @@
   parent: RMCArmorSPP
   id: CMArmorFreelancer
   name: freelancer cuirass
-  description: An armored protective chestplate scrapped together from various plates. It keeps up remarkably well, as the craftsmanship is solid, and the design mirrors such armors in the SPP and the UNMC. The many skilled craftsmen in the freelancers ranks produce these vests at a rate about one a month.
+  description: An armored protective chestplate scrapped together from various plates. It keeps up remarkably well, as the craftsmanship is solid, and the design mirrors such armors in the UPP and the USCM. The many skilled craftsmen in the freelancers ranks produce these vests at a rate about one a month.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Clothing/OuterClothing/freelancer.rsi
@@ -115,7 +115,7 @@
   parent: ClothingOuterStorageBase
   id: RMCCoatMilitia
   name: colonial militia hauberk
-  description: The hauberk of a colonist militia member, created from boiled leather and some modern armored plates. While not the most powerful form of armor, and primitive compared to most modern suits of armor, it gives the wearer almost perfect mobility, which suits the needs of the local colonists. It is also quick to don, easy to hide, and cheap to produce in large workshops.
+  description: The hauberk of a colonial militia member, created from boiled leather and some modern armored plates. While not the most powerful form of armor, and primitive compared to most modern suits of armor, it gives the wearer almost perfect mobility, which suits the needs of the local colonists. It is also quick to don, easy to hide, and cheap to produce in large workshops.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Clothing/OuterClothing/Militia/rebel.rsi
@@ -138,7 +138,7 @@
   parent: RMCCoatMilitia
   id: RMCCoatMilitiaVest
   name: colonial militia vest
-  description: The hauberk of a colonist militia member, created from boiled leather and some modern armored plates. While not the most powerful form of armor, and primitive compared to most modern suits of armor, it gives the wearer almost perfect mobility, which suits the needs of the local colonists. It is also quick to don, easy to hide, and cheap to produce in large workshops. This extremely light variant protects only the chest and abdomen.
+  description: The hauberk of a colonial militia member, created from boiled leather and some modern armored plates. While not the most powerful form of armor, and primitive compared to most modern suits of armor, it gives the wearer almost perfect mobility, which suits the needs of the local colonists. It is also quick to don, easy to hide, and cheap to produce in large workshops. This extremely light variant protects only the chest and abdomen.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Clothing/OuterClothing/Militia/vest.rsi
@@ -271,7 +271,7 @@
   parent: CMArmorM4PMC
   id: RMCArmorPMCRiot
   name: UN-M1 riot armor
-  description: Based on the M3 pattern employed by the UNMC, the UN-M1 body armor is employed by security, riot control and union-busting teams. While robust against melee and bullet attacks, it critically lacks coverage of the legs and arms.
+  description: Based on the M3 pattern employed by the USCM, the UN-M1 body armor is employed by security, riot control and union-busting teams. While robust against melee and bullet attacks, it critically lacks coverage of the legs and arms.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Clothing/OuterClothing/Armor/riot.rsi
@@ -289,7 +289,7 @@
   parent: RMCArmorPMCRiot
   id: RMCArmorPMCRiotSynth
   name: UN-M1S synthetic body armor
-  description: Based on the M3 pattern employed by the UNMC, the UN-M1 body armor is employed by security, riot control and union-busting teams. The UN-1MS modification is Synthetic programming compliant, sacrificing protection for speed and carrying capacity.
+  description: Based on the M3 pattern employed by the USCM, the UN-M1 body armor is employed by security, riot control and union-busting teams. The UN-1MS modification is Synthetic programming compliant, sacrificing protection for speed and carrying capacity.
   components:
   - type: CMArmor
     armor: 0

@@ -1,9 +1,8 @@
 ﻿- type: entity
   parent: RMCBaseWeaponSniperRifle
   id: CMM96SSniperRifle
-  name: M96S scoped rifle
-  description: "A heavy sniper rifle manufactured by Aegis Armaments. It has a scope system and fires armor penetrating rounds out of a 15-round magazine.
-    'Peace Through Superior Firepower'"
+  name: M42A scoped rifle
+  description: "A heavy sniper rifle manufactured by Armat Systems. It has a scope system and fires armor penetrating rounds out of a 15-round magazine. 'Peace Through Superior Firepower'"
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Weapons/Guns/Snipers/m96s/desert.rsi
@@ -85,7 +84,7 @@
 - type: entity
   parent: BaseMagazineRifle
   id: CMMagazineSniperM96S
-  name: "M96S marksman magazine (10x28mm)"
+  name: "M42A marksman magazine (10x28mm)"
   description: A magazine of sniper rifle ammo. An aimed shot with it will deal significant damage.
   components:
   - type: Tag
@@ -116,7 +115,7 @@
 - type: entity
   parent: CMMagazineSniperM96S
   id: CMMagazineSniperM96SIncendiary
-  name: "M96S incendiary magazine (10x28mm)"
+  name: "M42A incendiary magazine (10x28mm)"
   description: A magazine of sniper rifle ammo. An aimed shot with it will temporarily blind the targe and kindle the blaze further.
   components:
   - type: BallisticAmmoProvider
@@ -135,7 +134,7 @@
 - type: entity
   parent: CMMagazineSniperM96S
   id: CMMagazineSniperM96SFlak
-  name: "M96S flak magazine (10x28mm)"
+  name: "M42A flak magazine (10x28mm)"
   description: A magazine of sniper rifle ammo. An aimed shot with it will temporarily slow the target and minimize the backlash.
   components:
   - type: BallisticAmmoProvider

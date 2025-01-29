@@ -1,8 +1,8 @@
 ﻿- type: entity
   parent: [ RMCBaseWeaponShotgun, RMCBaseAttachableHolder ]
-  name: M42A2 Pump Shotgun
+  name: M37A2 pump shotgun
   id: WeaponShotgunM42A2
-  description: An Aegis Battlefield Armaments classic design, the M42A2 combines close-range firepower with long term reliability. Needs to be pumped.
+  description: An Armat Battlefield Systems classic design, the M37A2 combines close-range firepower with long term reliability. Needs to be pumped to chamber a new shell.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Weapons/Guns/Shotguns/m42a2/desert.rsi

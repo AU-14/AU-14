@@ -2,7 +2,7 @@
   parent: CMBeltBaseStorage
   id: CMBeltSecurity
   name: M276 pattern security rig
-  description: The M276 is the standard load-bearing equipment of the UNMC. It consists of a modular belt with various clips. This configuration is commonly seen among Marine Military Police and peacekeepers, though it can hold some light munitions.
+  description: The M276 is the standard load-bearing equipment of the USCM. It consists of a modular belt with various clips. This configuration is commonly seen among Marine Military Police and peacekeepers, though it can hold some light munitions.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Clothing/Belt/security.rsi
@@ -34,7 +34,7 @@
   parent: CMBeltSecurity
   id: CMBeltSecurityMP
   name: M276 pattern military police rig
-  description: The M276 is the standard load-bearing equipment of the UNMC. It consists of a modular belt with various clips. This version is filled with an array of small pouches, meant to carry non-lethal equipment and restraints.
+  description: The M276 is the standard load-bearing equipment of the USCM. It consists of a modular belt with various clips. This version is filled with an array of small pouches, meant to carry non-lethal equipment and restraints.
   components:
   - type: Storage
     maxItemSize: Normal

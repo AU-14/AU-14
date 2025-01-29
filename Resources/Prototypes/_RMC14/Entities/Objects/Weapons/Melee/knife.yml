@@ -11,7 +11,7 @@
   parent: [ RMCBaseMeleeWeapon, BaseKnife, RMCAttachableBase ]
   id: RMCM5Bayonet
   name: "M5 'Night Raider' bayonet"
-  description: The standard-issue bayonet of the Marines. You can slide this knife into your boots. # TODO RMC14 , or attach it to the end of a rifle.
+  description: The standard issue bayonet knife issued to Colonial Marines. A sharp cutting tool that can be hidden in your marine combat boots or held in your teeth. Very useful for cutting through materials as well as grass, but it should only to be used as a last resort against enemies. Can be attached to weapons that allow bayonets on the muzzle. # TODO RMC14 , or attach it to the end of a rifle.
   components:
   - type: Clothing
     slots:
@@ -66,7 +66,7 @@
   name: M11 throwing knife
   parent: [ RMCBaseMeleeWeapon, BaseKnife]
   id: CMM11Knife
-  description: A military knife designed to be thrown at the enemy.
+  description: A military knife designed to be thrown at the enemy. Much quieter than a firearm, but requires a steady hand to be used effectively.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Weapons/Melee/m11_knife.rsi

@@ -126,7 +126,7 @@
   parent: [RMCMarineUniformBase, RMCFoldableUniformBase]
   id: RMCJumpsuitMarsoc
   name: special operative uniform # TODO: find more appropriate name
-  description: A black uniform for elite Marine personnel. Designed to be comfortable and help blend into dark environments.
+  description: A black uniform for elite USCM personnel. Designed to be comfortable and help blend into dark environments.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Clothing/Uniforms/marsoc.rsi

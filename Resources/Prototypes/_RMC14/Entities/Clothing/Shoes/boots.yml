@@ -35,7 +35,7 @@
 - type: entity
   parent: ClothingShoesMilitaryBase
   id: CMBootsBlack
-  name: marine combat boots
+  name: USCM combat boots
   description: Standard issue combat boots for combat scenarios or combat situations. All combat, all the time.
   components:
   - type: Sprite
@@ -179,7 +179,7 @@
   parent: CMBootsBlack
   id: RMCBootsRoyal
   name: L10 pattern combat boots
-  description: Standard issue combat boots for combat scenarios or combat situations. Used by the threa sun empires royal marines commando units.
+  description: Standard issue combat boots for combat scenarios or combat situations. Used by the TWE royal marines commando units.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Clothing/Shoes/Boots/rmc.rsi

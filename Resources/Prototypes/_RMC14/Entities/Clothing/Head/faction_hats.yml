@@ -3,7 +3,7 @@
   parent: CMHeadCap
   id: RMCHeadCapBureau
   name: bureau cap
-  description: A dark cap enscribed with the powerful letters of 'MARSHAL' representing justice, authority, and protection in the outer rim. The laws of the Earth stretch beyond the Sol.
+  description: A dark cap enscribed with the powerful letters of 'MARSHAL' representing justice, authority, and protection in the outer rim. The laws of the United Americas stretch beyond the Sol.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Clothing/Head/Hats/bureau_cap.rsi
@@ -14,8 +14,8 @@
 - type: entity
   parent: CMHeadBeretRed
   id: RMCHeadBeretProvost
-  name: UNMC provost beret
-  description: A beret with the UNMC Military Police insignia emblazoned on it.
+  name: USCM provost beret
+  description: A beret with the USCM Military Police insignia emblazoned on it.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Clothing/Head/Hats/beret_wo.rsi
@@ -25,7 +25,7 @@
 - type: entity
   parent: RMCHeadBeretProvost
   id: RMCHeadBeretProvostSenior
-  name: UNMC senior provost beret
+  name: USCM senior provost beret
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Clothing/Head/Hats/CO/beret_black.rsi
@@ -127,7 +127,7 @@
 - type: entity
   parent: CMHeadCapCargo
   id: RMCHeadCapQuartermaster
-  name: UNMC quartermaster cap
+  name: USCM quartermaster cap
   description: It's a fancy hat for a not-so-fancy military supply clerk.
   components:
   - type: Sprite
@@ -138,7 +138,7 @@
 - type: entity
   parent: CMHeadBeret
   id: RMCHeadBeretQuartermaster
-  name: UNMC quartermaster beret
+  name: USCM quartermaster beret
   description: A beret with the sergeant insignia emblazoned on it. It symbolizes hard work and shady business.
   components:
   - type: Sprite

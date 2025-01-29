@@ -20,7 +20,7 @@
   parent: [RMCMarineUniformBase, RMCFoldableUniformBase]
   id: RMCJumpsuitVeteranPMCCommando
   name: PMC commando uniform
-  description: An armored uniform worn by We-Ya elite commandos. It is well protected while remaining light and comfortable.
+  description: An armored uniform worn by We-Yu elite commandos. It is well protected while remaining light and comfortable.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Clothing/Uniforms/PMC/commando.rsi
@@ -31,8 +31,8 @@
 - type: entity
   parent: [RMCMarineUniformBase, RMCFoldableUniformBase]
   id: RMCJumpsuitVeteranPMCCorporate
-  name: We-Ya corporate security uniform
-  description: An armored uniform worn by We-Ya corporate security members. This variant is commonly worn by what are known as 'goons'.
+  name: We-Yu corporate security uniform
+  description: An armored uniform worn by We-Yu corporate security members. This variant is commonly worn by what are known as 'goons'.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Clothing/Uniforms/PMC/corporate.rsi
@@ -43,8 +43,8 @@
 - type: entity
   parent: [RMCMarineUniformBase, RMCFoldableUniformBase]
   id: RMCJumpsuitVeteranPMCCorporateLead
-  name: We-Ya corporate security uniform
-  description: An armored uniform worn by We-Ya corporate security members. This variant is commonly worn by the lead of the 'goonsquad', as they are colloquially known.
+  name: We-Yu corporate security uniform
+  description: An armored uniform worn by We-Yu corporate security members. This variant is commonly worn by the lead of the 'goonsquad', as they are colloquially known.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Clothing/Uniforms/PMC/corporate_lead.rsi
