@@ -1,19 +1,24 @@
-- files: ["Super_Nova_In_The_Catacombs.ogg"]
-  license: "CC-BY-SA-3.0"
-  copyright: "Super Nova In The Catacombs by WigWoo1 on youtube. https://www.youtube.com/@WigWoo1"
-  source: "https://www.youtube.com/watch?v=ly3-rhDTeOU&ab_channel=WigWoo1"
+- files: ["dawsons_christan.ogg"]
+  license: "Custom"
+  copyright: "Dawsons Christan by Vic Tyler"
+  source: "https://youtu.be/GS0NUtRpyPA?si=uoFmtpcyDH4bO9Yn"
 
-- files: ["shadowinthesilvernebula.ogg"]
-  license: "CC-BY-SA-4.0"
-  copyright: "Shadow in the Silver Nebula by Mendax on archive.org"
-  source: "https://archive.org/details/shadowinthesilvernebula"
+- files: ["fire_in_the_sky.ogg"]
+  license: "Custom"
+  copyright: "Fire in the Sky by Kristoph Klover"
+  source: "https://youtu.be/KJA6QW1kFjo?si=7DKe188c8IvN3L0a"
 
-- files: ["enemy_is_unknown.ogg"]
-  license: "CC-BY-4.0"
-  copyright: "Nightly"
-  source: "https://discord.com/channels/1168210010233376858/1168217282988757116/1294247035158925314"
+- files: ["sam_jones.ogg"]
+  license: "Custom"
+  copyright: "Sam Jones by Carmen Miranda"
+  source: "https://youtu.be/TyxFnPMHJ6s?si=37m57tYnj_yWDTJS"
 
-- files: ["the_fallen_queen.ogg"]
-  license: "CC-BY-4.0"
-  copyright: "Bolgarich"
-  source: "https://discord.com/channels/1168210010233376858/1168217282988757116/1292488660150915124"
+- files: ["bomber.ogg"]
+  license: "Custom"
+  copyright: "Bomber by Vic Tyler"
+  source: "https://youtu.be/EEVvQx9H3B4?si=KokuuVuVuISMdl4r"
+  
+- files: ["the_day_it_fell_apart.ogg"]
+  license: "Custom"
+  copyright: "The Day it Fell Apart by Leslie Fish"
+  source: "https://youtu.be/4aYVbt5ZwTc?si=xnXxiDqU17vPisft"
