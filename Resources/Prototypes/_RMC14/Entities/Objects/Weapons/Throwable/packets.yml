@@ -56,7 +56,7 @@
   parent: CMPacketBase
   id: CMPacketGrenadeFrag
   name: HEFA grenade packet
-  description: It contains three HEFA grenades. Don't tell the HEFA order.
+  description: It contains three HEFA grenades.
   components:
   - type: Sprite
     layers:

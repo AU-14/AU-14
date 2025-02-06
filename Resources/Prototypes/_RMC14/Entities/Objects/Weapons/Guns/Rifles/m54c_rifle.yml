@@ -1,8 +1,8 @@
 ﻿- type: entity
   parent: CMBaseWeaponRifle
-  name: M54C assault rifle MK2
+  name: M41A Pulse Rifle
   id: WeaponRifleM54C
-  description: The standard issue rifle of the Marines. Commonly carried by most combat personnel. Uses 10x24mm caseless ammunition.
+  description: The standard issue rifle of the USCM. Commonly carried by most combat personnel. Uses 10x24mm caseless ammunition.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Weapons/Guns/Rifles/m54c/desert.rsi
@@ -108,7 +108,7 @@
 - type: entity
   parent: CMMagazineRifleBase
   id: CMMagazineRifleM54C
-  name: "M54C magazine (10x24mm)"
+  name: "M41A magazine (10x24mm)"
   components:
   - type: Tag
     tags:
@@ -135,7 +135,7 @@
 - type: entity
   parent: CMMagazineRifleM54C
   id: CMMagazineRifleM54CAP
-  name: "M54C AP magazine (10x24mm)"
+  name: "M41A AP magazine (10x24mm)"
   suffix: AP
   components:
   - type: Tag
@@ -162,7 +162,7 @@
 - type: entity
   parent: CMMagazineRifleM54C
   id: CMMagazineRifleM54CExt
-  name: "M54C extended magazine (10x24mm)"
+  name: "M41A extended magazine (10x24mm)"
   components:
   - type: Tag
     tags:

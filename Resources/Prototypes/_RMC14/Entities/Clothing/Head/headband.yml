@@ -54,7 +54,7 @@
 - type: entity
   parent: CMHeadBandGreen
   id: RMCHeadBandSquad
-  name: UNMC squad headband
+  name: USCM squad headband
   suffix: DO NOT MAP
   components:
   - type: Sprite

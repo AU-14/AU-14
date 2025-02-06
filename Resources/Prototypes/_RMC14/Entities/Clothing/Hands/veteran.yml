@@ -40,8 +40,8 @@
 - type: entity
   parent: RMCHandsVeteran
   id: RMCHandsVeteranPMC
-  name: WeYa PMC gloves
-  description: Standard issue kevlon fiber gloves manufactured for and by Weston-Yamada PMC dispatch division. They are insulated against electrical shock.
+  name: WeYu PMC gloves
+  description: Standard issue kevlon fiber gloves manufactured for and by Weyland-Yutani PMC dispatch division. They are insulated against electrical shock.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Clothing/Hands/Gloves/pmc.rsi
@@ -65,7 +65,7 @@
   parent: RMCHandsVeteran
   id: RMCHandsVeteranRoyalMarine
   name: L6 pattern combat gloves
-  description: Standard issue tactical gloves used by the royal marines.
+  description: Standard issue tactical gloves used by the TWE royal marines.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Clothing/Hands/Gloves/royal_marine.rsi

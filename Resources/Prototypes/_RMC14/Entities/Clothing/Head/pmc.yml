@@ -61,7 +61,7 @@
 - type: entity
   parent: ArmorHelmetPMC
   id: ArmorHelmetPMCCorporate
-  name: We-Ya corporate security helmet
+  name: We-Yu corporate security helmet
   description: A basic skull-helm worn by corporate security assets, graded to protect your head from an unruly scientist armed with a crowbar.
   components:
   - type: Sprite

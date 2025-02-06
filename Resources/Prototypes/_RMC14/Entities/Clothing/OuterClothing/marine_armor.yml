@@ -3,7 +3,7 @@
   parent: RMCBaseMarineArmorLight
   id: CMArmorM3Medium
   name: M3 pattern marine armor
-  description: A standard UNMC M3 Pattern Chestplate. Protects the chest from ballistic rounds, bladed objects and accidents. It has a small leather pouch strapped to it for limited storage.
+  description: A standard USCM M3 Pattern Chestplate. Protects the chest from ballistic rounds, bladed objects and accidents. It has a small leather pouch strapped to it for limited storage.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Clothing/OuterClothing/Armor/m3/standard/padded/jungle.rsi
@@ -30,7 +30,7 @@
 - type: entity
   id: RMCArmorM3MediumVariants
   name: M3 pattern marine armor
-  description: A standard UNMC M3 Pattern Chestplate. Protects the chest from ballistic rounds, bladed objects and accidents. It has a small leather pouch strapped to it for limited storage.
+  description: A standard USCM M3 Pattern Chestplate. Protects the chest from ballistic rounds, bladed objects and accidents. It has a small leather pouch strapped to it for limited storage.
   categories:
   - HideSpawnMenu
   components:
@@ -666,7 +666,7 @@
   parent: CMArmorM3Medium
   id: CMArmorM45
   name: M45 pattern ghillie armor # TODO id lock
-  description: A lightweight ghillie camouflage suit, used by UNMC snipers on recon missions. Very lightweight, but doesn't protect much.
+  description: A lightweight ghillie camouflage suit, used by USCM snipers on recon missions. Very lightweight, but doesn't protect much.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Clothing/OuterClothing/Armor/ghillie/jungle.rsi
@@ -722,7 +722,7 @@
   parent: [ RMCAllowSuitStorageClothingArmorMP, CMArmorM3Medium ]
   id: CMArmorM2MP
   name: M2 pattern mp armor
-  description: A standard UNMC M2 Pattern Chestplate. Protects the chest from ballistic rounds, bladed objects and accidents. It has a small leather pouch strapped to it for limited storage.
+  description: A standard USCM M2 Pattern Chestplate. Protects the chest from ballistic rounds, bladed objects and accidents. It has a small leather pouch strapped to it for limited storage.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Clothing/OuterClothing/Armor/m2/mp/jungle.rsi

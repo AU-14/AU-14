@@ -1,8 +1,8 @@
 ﻿- type: entity
   parent: CMBaseWeaponRifle
-  name: M54C MK1 assault rifle
+  name: M41A Pulse Rifle MK1
   id: WeaponRifleM54CMK1
-  description: An older design of the Assault Rifle commonly used by the Marine Corps. Uses 10x24mm caseless ammunition.
+  description: An older design of the Assault Rifle commonly used by the USCM. Uses 10x24mm caseless ammunition.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Weapons/Guns/Rifles/m54cmk1/desert.rsi
@@ -128,7 +128,7 @@
 - type: entity
   parent: CMMagazineRifleBase
   id: CMMagazineRifleM54CMK1
-  name: "M54C MK1 magazine (10x24mm)"
+  name: "M41A MK1 magazine (10x24mm)"
   components:
   - type: Tag
     tags:
@@ -155,7 +155,7 @@
 - type: entity
   parent: CMMagazineRifleM54CMK1
   id: CMMagazineRifleM54CMK1AP
-  name: "M54C MK1 AP magazine (10x24mm)"
+  name: "M41A MK1 AP magazine (10x24mm)"
   suffix: AP
   components:
   - type: Tag
